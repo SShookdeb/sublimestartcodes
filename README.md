@@ -1,4 +1,4 @@
-# sublimestartwithc-
+# sublimestartwithc+
 code for set up sublime with C++
 
 if you have already add your all header file into one file "<bit/sdtc++.h>" then all right 
